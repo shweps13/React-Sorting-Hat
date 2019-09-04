@@ -4,7 +4,7 @@
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+  height: 60%;
 }
 
 .App-header {
@@ -22,7 +22,14 @@
   font-size: large;
 }
 
-@keyframes App-logo-spin {
+/* @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+} */
+.Card {
+  background-color: rgb(224, 224, 224);
+  width: 75%;
+  margin: 0 12.5%;
+  border-radius: 15px;
+  border: 1px solid grey;
 }
