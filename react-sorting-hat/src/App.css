@@ -33,3 +33,9 @@
   border-radius: 15px;
   border: 1px solid grey;
 }
+.Card button{
+  width: 35%;
+  padding: 2%;
+  margin: 1% 0;
+  font-size: 1.5rem;
+}

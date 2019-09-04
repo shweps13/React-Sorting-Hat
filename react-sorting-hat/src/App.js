@@ -14,7 +14,14 @@ class App extends Component {
           You will know from which house you came...
         </p>
         <div className="Card">
-          <p>ololo</p>
+          <h2>Answer the questions</h2>
+          <p>Who was the house ghost in Slytherin? (Bloody Baron)</p>
+          <p>Where are located Ravenclaw common room and dormitories? (in a tower)</p>
+          <p>To which element corresponds Hufflepuff? (earth)</p>
+          <p>Who was the house ghost in Gryffindor? (Sir Nicholas de Mimsy-Porpington)</p>
+          <p>Who was the house ghost in Ravenclaw? (Grey Lady)</p>
+          <p>Who was the house ghost in Hufflepuff? (Fat Friar)</p>
+          <button>Submit</button>
         </div>
       </div>
     );
